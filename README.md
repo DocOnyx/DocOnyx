@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DocOnyx
-- 👀 I’m interested in python programming, SQL programming and AI
-- 🌱 I recently completed an intro to SQL and Data analysis course
-- 🌱 I’m currently undergoing a fullstack developer course with Code First Girls
-- 💞️ I’m looking to collaborate on software programming projects
+- 👀 I’m interested in SQL Programming, Backend, Frontend and Mobile app development 
+- 🌱 I have completed coding bootcamp courses with Code First Girls including SQL, Python, Full Stack Developer and Mobile App Development
+- 💞️ I’m looking to collaborate on software programming projects and work flexibly with a Tech company
 - 📫 How to reach me: via onyxsmtp@gmail.com
 
 <!---
