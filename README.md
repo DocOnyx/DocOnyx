@@ -2,6 +2,7 @@
 - 👀 I’m interested in SQL Programming, Backend, Frontend and Mobile app development 
 - 🌱 I have completed coding bootcamp courses with Code First Girls including SQL, Python, Full Stack Developer and Mobile App Development
 - 💞️ I’m looking to collaborate on software programming projects and work flexibly with a Tech company
+- 💞️ I’m also keen to learn about and contribute to the Bitcoin and Lightning network development
 - 📫 How to reach me: via onyxsmtp@gmail.com
 
 <!---
